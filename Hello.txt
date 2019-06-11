@@ -1,1 +1,3 @@
 Hello I am Git
+My nama is disc F
+I like git
