@@ -13,4 +13,6 @@ for (let i = 0; i < 5; i++) {
 console.log('initial commit');
 
 console.log('create new branch');
-console.log('new change to branch vasay');
+console.log('bla bla bla');
+console.log('bla bla bla');
+console.log('bla bla bla');
