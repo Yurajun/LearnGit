@@ -10,3 +10,5 @@ console.log(' 2 ssh new change"');
 
 console.log('ssh"');
 console.log('ssh"');
+
+console.log('new stash');
